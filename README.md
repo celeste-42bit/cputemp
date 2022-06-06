@@ -1,5 +1,5 @@
-CPUTemp
------
+# CPUTemp
+
 What is it?
 ---
 Well... This script displays the CPU temperature of the Raspberry Pi 3 and 4
