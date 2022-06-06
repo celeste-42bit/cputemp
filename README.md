@@ -21,3 +21,5 @@ How do you install it?
 ---
 Just take the ```cputemp.sh``` and smash it into the ```/usr/local/bin``` directory! Done!!!1!!!!1!
 It's so simple!
+
+Copyright (C) MIT 2022 caeleste-42bit
