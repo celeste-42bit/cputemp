@@ -20,6 +20,6 @@ Also, you can continuously display the actual temperature with ```cputemp -c```
 How do you install it?
 ---
 Just take the ```cputemp.sh``` and smash it into the ```/usr/local/bin``` directory! Done!!!1!!!!1!
-It's so simple!
+It's that simple!
 
 Copyright (C) MIT 2022 caeleste-42bit
